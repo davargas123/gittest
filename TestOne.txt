@@ -1,1 +1,2 @@
-Test git cookies
+Test git cookies 
+- just checked out 2nd time
